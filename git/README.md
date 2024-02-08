@@ -1,4 +1,4 @@
-My first readmke
+My first readme
 <<<<<<< HEAD
 
 =======
